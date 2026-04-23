@@ -1,4 +1,4 @@
-Original Code/Miner Behavior
+Original Code/Miner Behavior- 
 Miner had 3 states:
   Mining
   Drinking
